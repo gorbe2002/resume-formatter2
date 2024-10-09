@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume-formatter2/static/css/main.3175d52d.css",
+    "main.js": "/resume-formatter2/static/js/main.92ff3a35.js",
+    "index.html": "/resume-formatter2/index.html",
+    "main.3175d52d.css.map": "/resume-formatter2/static/css/main.3175d52d.css.map",
+    "main.92ff3a35.js.map": "/resume-formatter2/static/js/main.92ff3a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3175d52d.css",
+    "static/js/main.92ff3a35.js"
+  ]
+}
